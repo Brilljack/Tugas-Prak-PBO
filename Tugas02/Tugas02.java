@@ -50,7 +50,7 @@ public class Tugas02 {
                         if (i%2==0){
                         System.out.println(i+" ");
                         }
-                        else if (i>=502){
+                        else if (i>=500){
                             System.out.println("Sudah Melebihi Angka 500");
                             break;
                         }
